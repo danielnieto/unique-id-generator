@@ -1,6 +1,6 @@
 {
   "name": "unique-id-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "utility to generate unique ID based on Date.now()",
   "main": "index.js",
   "scripts": {
