@@ -16,7 +16,7 @@ This function is meant to return an unique ID using the value of Date.now(), it 
 3.- Use it:
 
 ```js
-var id = generateID({prefix:"id-");
+var id = generateID({prefix:"id-"});
 //generates something like id-1476734792457
 ```
 
